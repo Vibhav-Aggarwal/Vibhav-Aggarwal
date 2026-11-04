@@ -8,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-vibhav.aggarwal2%40gmail.com-red?style=for-the-badge)](mailto:vibhav.aggarwal2@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@vibhavaggarwal1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vibhavaggarwal1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhavaggarwal)
+[![Harvard CS50](https://img.shields.io/badge/Harvard_CS50-10_Tracks_Mastery-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://github.com/Vibhav-Aggarwal/Harvard-CS50-Showcase)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vibhav-Aggarwal&color=brightgreen&style=for-the-badge)
 
@@ -95,6 +96,16 @@ I'm a **Health-Tech Entrepreneur** and **Multi-Domain Technical Expert** from Gu
 ---
 
 ## 🏆 Featured Projects
+
+### 🎓 Academic Engineering & Computer Science
+
+#### [Harvard CS50 Master Portfolio](https://github.com/Vibhav-Aggarwal/Harvard-CS50-Showcase) • [Matrix & Certificates](https://github.com/Vibhav-Aggarwal/Harvard-CS50-Showcase#curriculum-matrix--verified-credentials) • [Live Video Demos](https://github.com/Vibhav-Aggarwal/Harvard-CS50-Showcase#live-video-demonstrations-cs50w-full-stack)
+**Comprehensive 10-Track Computer Science Mastery from Harvard University**
+- **10 Tracks Covered:** CS50x (CS & Systems), CS50P (Python), CS50AI (Artificial Intelligence), CS50SQL (Databases), CS50R (Data Science), CS50S (Scratch), CS50W (Web Programming), CS50B (Business Systems), CS50L (Legal Informatics), CS50 Cybersecurity (Defense & Cryptography)
+- **Verified Credentials:** 6 official Harvard certificates archived in PDF/PNG + 4 comprehensive tracks submitted
+- **Full-Stack Video Demos:** 5 authentic HD video screencasts demonstrating Wiki, Commerce, Mail, Network, and TaskFlow Capstone
+- **Tech Stack:** Python 3, Django 5, React, C (Memory/Algorithms), SQL (PostgreSQL/SQLite), R (tidyverse), TensorFlow, STRIDE Threat Modeling
+
 
 ### 🔐 Security & Research
 
