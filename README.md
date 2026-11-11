@@ -38,7 +38,7 @@ I am an independent researcher and systems engineer working at the intersection 
 > *An Automated Bayesian Framework and Seismological Inversion Pipeline for Decayless Kink Oscillations in Solar Coronal Loops*
 - Automated sub-pixel slit tracking, wavelet-based oscillation detection, and Bayesian MCMC fitting.
 - Direct seismological inversion of local plasma parameters and coronal magnetic field strength ($B$).
-- Reproducible research artifact targeting the **Journal of Open Source Software (JOSS)** and astrophysics literature.
+- Submitted & in-review at the **Journal of Open Source Software (JOSS)** ([Submission Status](https://joss.theoj.org/papers/84a9ed30d656b021760e68758362501c)).
 - **Tech Stack**: Python 3.11+, SunPy, AstroPy, PyMC, NumPy, SciPy, Matplotlib.
 
 ### 🌐 [zero-cost-sovereign-computing — Multi-Node Cluster](https://github.com/Vibhav-Aggarwal/zero-cost-sovereign-computing)
@@ -77,7 +77,7 @@ I am an independent researcher and systems engineer working at the intersection 
 
 | Focus Area | Title | Canonical Citation / DOI |
 |:---|:---|:---|
-| **Solar Physics** | *oscfit: An Automated Bayesian Framework and Seismological Inversion Pipeline for Decayless Kink Oscillations in Solar Coronal Loops* | [Software & Manuscript](https://github.com/Vibhav-Aggarwal/oscfit) (JOSS / arXiv target) |
+| **Solar Physics** | *oscfit: A Modern Python Framework for Bayesian Model Selection and Magnetohydrodynamic Seismology of Solar Coronal Loop Oscillations* | [JOSS Submission](https://joss.theoj.org/papers/84a9ed30d656b021760e68758362501c) · [Software](https://github.com/Vibhav-Aggarwal/oscfit) |
 | **Sovereign Infrastructure** | *Zero-Cost Sovereign Computing: A Reproducible Multi-Node Cluster from mDNS, a Mesh VPN, Cloud Tunnels, and Free-Tier VPSs* | [doi:10.5281/zenodo.19654425](https://doi.org/10.5281/zenodo.19654425) |
 | **Network Security** | *Signal-Optimized Device Selection for Distributed WiFi Security Assessment: A 44 dB Empirical Study* | [doi:10.5281/zenodo.19681662](https://doi.org/10.5281/zenodo.19681662) |
 | **Cyber Deception** | *Chakravyu: LLM-Orchestrated Multi-Layered Cyber Deception Networks* | [doi:10.5281/zenodo.21528512](https://doi.org/10.5281/zenodo.21528512) |
